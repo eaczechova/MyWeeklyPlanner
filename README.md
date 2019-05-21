@@ -2,11 +2,15 @@
 
 A simple application that allows user to plan tasks on weekly basis.
 
+[Link](https://eaczechova.github.io/MyWeeklyPlanner/) to the draft.
+
 ## Installation
+
+**To be specified**
 
 ## User Stories
 
-** At the moment there is only a HTML/CSS draft of the application. **
+**At the moment there is only a HTML/CSS draft of the application.**
 
 To be developed:
 
